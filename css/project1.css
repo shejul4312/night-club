@@ -1,0 +1,353 @@
+*{
+    margin: 0px;
+
+}
+
+
+
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: yellow;
+    position: absolute;
+
+}
+.li-1{
+    list-style: none;
+    font-size: x-large;
+}
+
+.box1{
+    
+    height: 650px;
+}
+
+#h1{
+    position: absolute;
+    top: 80px;
+    color: aliceblue;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    position: absolute;
+    top: 450px;
+    color: aliceblue;
+    margin-left: 500px;
+    text-align: center ;
+    font-size: 75px;
+    
+}
+
+
+.h0{
+    position: absolute;
+    top: 435px;
+    color: aliceblue;
+    text-align: center ;
+    margin-left: 650px;
+}
+
+.h1{
+    position: relative;
+    top: 40px;
+    color: aliceblue;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.h2{
+    color: aliceblue;
+    margin-left: 550px;
+    margin-bottom: 100px;
+}
+  
+.box3{
+    height: 650px;
+    width: 100%;
+    background-image: url(https://d3nn873nee648n.cloudfront.net/900x600/4811/19-SM135861.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position:absolute;
+    top: 850px;
+    opacity: 0.5;
+
+}
+
+.box4{  height: 649px;
+    width: 100%;
+    background-color: rgb(145, 86, 4);
+    opacity: 0.8;
+    position:absolute;
+    top: 853px;
+
+}
+
+.box5{
+    height: 450px;
+    width: 45%;
+    background-image: url(https://templatemo.com/templates/templatemo_583_festava_live/images/pexels-alexander-suhorucov-6457579.jpg);
+    position:absolute;
+    top: 950px;
+    margin-left: 750px;
+    border-radius: 40px 40px;
+
+}
+
+
+.box6{
+    height: 150px;
+    width: 40%;
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 25px 25px;
+    margin-left: 790px;
+    margin-top: 400px;
+    background-repeat: no-repeat;
+
+
+
+}
+
+
+.box7{
+
+    position:absolute;
+    top: 950px;
+    color: aliceblue;
+    margin-left: 100px;
+
+}
+
+
+.box9{ 
+    height: 1150px;
+   background-image: url(/video/video/photo-1533174072545-7a4b6ad7a6c3\ \(1\).jfif);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   position: relative;
+   top: -200px;
+}
+
+
+.td1{background-size: cover;
+    background-image: url(https://templatemo.com/templates/templatemo_583_festava_live/images/artists/joecalih-UmTZqmMvQcw-unsplash.jpg);
+}
+
+.td2{background-size: cover;
+    background-image: url(https://templatemo.com/templates/templatemo_583_festava_live/images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg);
+}
+
+.td3{ height: 210;
+    width: 350px;
+    background-size: cover;
+    background-image: url(https://templatemo.com/templates/templatemo_583_festava_live/images/artists/soundtrap-rAT6FJ6wltE-unsplash.jpg);
+}
+
+
+table{
+    
+}
+
+ul{
+    display:inline-block;
+}
+
+.div1{height: 400px;
+    width: 40%;
+    position: relative;
+    top: -250px;
+    margin-left: 50px;
+    font-size: x-large;
+    border-radius: 20px 20px;
+    border:  7px dotted  black;
+    
+}
+.discount{
+    height: 120px;
+    width: 120px;
+    border-radius: 90px;
+    background-color: coral;
+    text-align: center;
+    margin-left: 80%;
+    position: relative;
+    top:-500;
+
+}
+
+.div2{height: 400px;
+    width: 40%;
+    position: relative;
+    top: -650px;
+    margin-left: 50%;
+    font-size: x-large;
+    border-radius: 20px 20px;
+    border:  7px dotted  black;
+    
+}
+.t1 tr td input{
+    padding-left: 140px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    
+    
+}
+
+.t2 tr td input{
+    padding-left: 290px;
+    padding-right: 175px;
+    padding-bottom: 50px;
+    margin-left: 70%;
+    margin-top: 10px;
+}
+
+.t2 tr td button{
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 105%;
+    background-color: rgb(185, 60, 2);
+    color: aliceblue;
+    border-radius: 30px 30px ; 
+    margin-top: 10px;
+}
+
+.t2 tr td button:hover{
+    background-color: crimson;
+}
+ .box11{ height: 800px;
+    width: 100%;
+    background-color:beige;
+    
+
+ } 
+ .b6:hover{
+    color: crimson;
+    background-color: white;
+    padding: 10px 15px 10px 10px ;
+    border-radius: 20px;
+    
+ }
+ .b4:active{
+    color: crimson;
+
+ }
+ .div3{
+    height: 110px;
+    width: 600px;
+    background-color: aliceblue;
+    margin-left: 28%;
+    border-radius: 60px 60px;
+    position: relative;
+    top: 10px;
+
+
+ }
+
+ .box12{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(185, 60, 2) ;
+    
+ }
+
+ .box13{
+    height: 300px;
+    width: 100%;
+    background-color: rgb(14, 12, 12) ;
+    
+ }
+
+ .box13 a{
+
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 25px;
+    margin-top: 50px;
+    position: relative;
+    top: -75px;
+    
+ }
+
+ .box13 p{
+    color:aliceblue;
+     margin-left: 720px;
+      position: relative; 
+      top: 55px;
+       font-size: 20px;
+ }
+ .box13 .p1:hover{
+    color: crimson;
+
+ }
+
+ .box14{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(42, 39, 39) ;
+    
+ }
+
+p span{
+    margin-left: 700px;
+    position: relative;
+    top: -560px;
+ }
+
+ .a1 a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 20px;
+ }
+
+ a:hover{
+    color: crimson;
+ }
+ .b1{
+    margin-left: 700px;
+     position: relative; top: -5500px ;
+     padding: 10px 25px 10px 25px; 
+     border-radius: 20px 20px; 
+     background-color: rgb(250, 97, 26); 
+     color: aliceblue;
+ }
+
+ .b2{
+    margin-left: 1380px;
+     position: relative; top: -6065px ;
+     padding: 10px 25px 10px 25px; 
+     border-radius: 20px 20px; 
+     background-color: rgb(250, 97, 26); 
+     color: aliceblue;
+ }
+
+ .b1:hover{
+    background-color:crimson ;
+ }
+
+ 
+ .b2:hover{
+    background-color:crimson ;
+ }
+
+ span a{
+    margin-right: 10px;
+ }
+
+ .a2{
+
+    margin-right: 200px;
+ }
+
+ .p2 a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 30px;
+ }
+ 
+ .box14 .p2 a:hover{
+    color: crimson;
+ }
